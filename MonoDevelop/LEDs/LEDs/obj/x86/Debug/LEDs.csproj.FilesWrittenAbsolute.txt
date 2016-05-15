@@ -1,0 +1,6 @@
+/mnt/5713534771DF0EFB/Development/DA FEELT/minicurso-arduino-avancado/MonoDevelop/LEDs/LEDs/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/mnt/5713534771DF0EFB/Development/DA FEELT/minicurso-arduino-avancado/MonoDevelop/LEDs/LEDs/obj/x86/Debug/LEDs.gtk-gui.gui.stetic
+/mnt/5713534771DF0EFB/Development/DA FEELT/minicurso-arduino-avancado/MonoDevelop/LEDs/LEDs/bin/Debug/LEDs.exe.mdb
+/mnt/5713534771DF0EFB/Development/DA FEELT/minicurso-arduino-avancado/MonoDevelop/LEDs/LEDs/bin/Debug/LEDs.exe
+/mnt/5713534771DF0EFB/Development/DA FEELT/minicurso-arduino-avancado/MonoDevelop/LEDs/LEDs/obj/x86/Debug/LEDs.exe
+/mnt/5713534771DF0EFB/Development/DA FEELT/minicurso-arduino-avancado/MonoDevelop/LEDs/LEDs/obj/x86/Debug/LEDs.exe.mdb
