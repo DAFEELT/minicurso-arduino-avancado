@@ -43,6 +43,12 @@ void analisarSinal(char sinal){
 void atualizarLeds(){
   digitalWrite(pinoLed1, stateLed1);
   digitalWrite(pinoLed2, stateLed2);
+  Serial.print("a: ");
+  Serial.print(stateLed1);
+  Serial.print(" b: ");
+  Serial.println(stateLed2);
 }
+
+
 
 
