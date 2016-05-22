@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="LEDs/MainWindow.cs">
     <Files>
-      <File FileName="LEDs/MainWindow.cs" Line="39" Column="4" />
+      <File FileName="LEDs/MainWindow.cs" Line="92" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
